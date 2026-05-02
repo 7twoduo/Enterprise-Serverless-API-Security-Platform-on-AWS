@@ -100,7 +100,7 @@ Build a Terraform-managed AWS serverless API that demonstrates how to expose Lam
 >
 > `Evidence/01-architecture/architecture-diagram.png`
 
-<img width="1200" alt="Architecture Diagram" src="./Evidence/01-architecture/architecture-diagram.png" />
+<img width="1200" alt="Architecture Diagram" src="./Evidence/architecture-diagram.png" />
 
 ---
 
