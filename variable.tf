@@ -5,7 +5,7 @@ locals {
 
   py_function_name = "${local.project_name}-py"
   js_function_name = "${local.project_name}-js"
-
+# The manged rule set for my waf fules
   waf_managed_rules = [
     {
       name        = "AWSManagedRulesKnownBadInputsRuleSet"
@@ -42,4 +42,11 @@ variable "function_name1" {
   description = "Name of the Lambda function"
   type        = string
   default     = "my-basic-lambda-python"
+}
+
+
+
+variable "alert_email" {
+  description = "Email address that receives CloudWatch alarm notifications"
+  type        = string
 }
