@@ -274,9 +274,7 @@ Enterprise-Serverless-API-Security-Platform-on-AWS/
 │       └── architecture-diagram.png
 └── docs/
     ├── architecture.md
-    ├── security-controls.md
-    ├── troubleshooting.md
-    └── interview-talking-points.md
+    └── security-controls.md
 ```
 
 ---
