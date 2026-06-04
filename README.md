@@ -667,5 +667,30 @@ SNS Alert Notification
   </a>
   <a href="https://gavinfogwe.win/">
     <img src="https://img.shields.io/badge/Portfolio-Explore-orange?style=for-the-badge&logo=googlechrome&logoColor=white" />
+
+
+
+<div align="center">
+
+<h2>Connect With Me</h2>
+
+<p>
+I am interested in cloud engineering, AWS infrastructure, DevOps, DevSecOps, platform engineering, and cloud security roles where I can help teams build secure, reliable, and automated systems.
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/sama-engineer/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/7twoduo">
+    <img src="https://img.shields.io/badge/GitHub-View%20Projects-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://gavinfogwe.win/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-orange?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+</div>
+
   </a>
 </p>
